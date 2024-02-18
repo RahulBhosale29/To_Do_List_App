@@ -1,4 +1,3 @@
-```plaintext
 # Java Swing To-Do List App
 
 This is a simple To-Do List application built using Java Swing and AWT libraries. It provides basic functionality to manage tasks, including adding, deleting, and marking tasks as completed.
